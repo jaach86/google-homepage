@@ -19,6 +19,7 @@ a {
 .logo {
     display: flex;
     justify-content: center;
+    padding-top: 20px;
 }
 .icon {
     max-height: 25px;
@@ -26,4 +27,13 @@ a {
 }
 .main {
     padding-top: 40px;
+}
+#gsearch {
+    padding-top: 10px;
+}
+.butts {
+    display: flex;
+    justify-content: center;
+    float: left;
+    padding: 8px;
 }
